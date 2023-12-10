@@ -11,5 +11,7 @@ testing for third branch and from here
 =========
 back again to the root
 
+adding content into master
+
 after fourth branch
 >>>>>>>>> Temporary merge branch 2
