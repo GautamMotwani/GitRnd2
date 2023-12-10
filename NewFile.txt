@@ -1,6 +1,7 @@
 New file being created
 new comment
 test
+<<<<<<< HEAD
 
 now on new branch and not in master anymore
 
@@ -15,3 +16,20 @@ back again to the root
 
 after fourth branch
 
+=======
+Master branch
+
+
+
+
+now moving to third branch
+testing for third branch and from here
+=========
+back again to the root
+
+adding content into master
+
+after fourth branch
+>>>>>>>>> Temporary merge branch 2
+now on new branch and not in master anymore
+>>>>>>> old_main
