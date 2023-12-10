@@ -2,4 +2,14 @@ New file being created
 new comment
 test
 Master branch
+
+
+
+
+now moving to third branch
+testing for third branch and from here
+=========
 back again to the root
+
+after fourth branch
+>>>>>>>>> Temporary merge branch 2
