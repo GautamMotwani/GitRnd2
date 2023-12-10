@@ -15,3 +15,4 @@ adding content into master
 
 after fourth branch
 >>>>>>>>> Temporary merge branch 2
+now on new branch and not in master anymore
